@@ -6,7 +6,7 @@
 
 * [object-Object/objectobject.ca](https://github.com/object-Object/objectobject.ca):
   * Cloudflare DNS for https://objectobject.ca via [CDKTF](https://developer.hashicorp.com/terraform/cdktf)
-  * Common resources used by other workflows for CDK and CodeDeploy, including OIDC, IAM, and S3, via [AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+  * Common resources used by other workflows for CDK and CodeDeploy (including OIDC, IAM, and S3) via [AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
 * [object-Object/hexxy.media](https://github.com/object-Object/hexxy.media):
   * Cloudflare DNS for https://hexxy.media via [CDKTF](https://developer.hashicorp.com/terraform/cdktf)
   * Deploying https://hexxy.media/api/v0/docs to a VPS via [CodeDeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html), with automated health checks and rollbacks
