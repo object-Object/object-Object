@@ -9,10 +9,10 @@
   * Common resources used by other workflows (including OIDC, IAM, and S3) via [AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
 * [object-Object/hexxy.media](https://github.com/object-Object/hexxy.media):
   * Cloudflare DNS for https://hexxy.media via [CDKTF](https://developer.hashicorp.com/terraform/cdktf)
-  * Deploying https://hexxy.media/api/v0/docs to a VPS via [CodeDeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html), with automated health checks and rollbacks
+  * Deploying https://hexxy.media/api/v0/docs to a VPS via [CodeDeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html) with automated health checks and rollbacks
   * Provisioning CodeDeploy resources via [AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
 * [object-Object/HexBug](https://github.com/object-Object/HexBug):
-  * Deploying HexBug (a Discord bot) to a VPS via [CodeDeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html), with automated health checks and rollbacks
+  * Deploying HexBug (a Discord bot) to a VPS via [CodeDeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html) with automated health checks and rollbacks
   * Provisioning CodeDeploy resources via [AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
 * [hexdoc-dev/hexdoc](https://github.com/hexdoc-dev/hexdoc):
   * Automated builds and unit/integration testing for every commit and PR
