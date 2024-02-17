@@ -2,7 +2,7 @@
 
 [object Object]
 
-### CI/CD with GitHub Actions
+### GitHub Actions CI/CD
 
 * [object-Object/objectobject.ca](https://github.com/object-Object/objectobject.ca):
   * Cloudflare DNS for https://objectobject.ca via [CDKTF](https://developer.hashicorp.com/terraform/cdktf)
