@@ -2,7 +2,7 @@
 
 [object Object]
 
-### GitHub Actions CI/CD
+### CI/CD with GitHub Actions
 
 * [object-Object/objectobject.ca](https://github.com/object-Object/objectobject.ca):
   * Cloudflare DNS for https://objectobject.ca via [CDKTF](https://developer.hashicorp.com/terraform/cdktf)
@@ -23,3 +23,7 @@
   * Automated builds for every commit
   * PyPI releases for https://pypi.org/project/minecraft-render/
   * NPM releases for https://www.npmjs.com/package/@leftsquarebracket/minecraft-render
+* Other projects with PyPI release workflows:
+  * [hexdoc-dev/hatch-gradle-version](https://github.com/hexdoc-dev/hatch-gradle-version) (https://pypi.org/project/hatch-gradle-version)
+  * [hexdoc-dev/hexdoc-minecraft](https://github.com/hexdoc-dev/hexdoc-minecraft) (https://pypi.org/project/hexdoc-minecraft)
+  * [hexdoc-dev/hexdoc-latex](https://github.com/hexdoc-dev/hexdoc-latex) (https://pypi.org/project/hexdoc-latex)
