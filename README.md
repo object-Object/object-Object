@@ -43,3 +43,9 @@
 * [modlist-bisector](https://github.com/object-Object/modlist-bisector)
 * [mycampus-calendar-rs](https://github.com/object-Object/mycampus-calendar-rs)
 * [vscode-hex-casting](https://github.com/object-Object/vscode-hex-casting)
+
+### Open-Source Contributions
+
+* [Hex Casting](https://github.com/FallingColors/HexMod)
+* [Hexal](https://github.com/FallingColors/HexMod)
+* [MoreIotas](https://github.com/FallingColors/HexMod)
