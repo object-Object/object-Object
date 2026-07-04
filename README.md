@@ -17,6 +17,7 @@
 
 * [GitHub Utils](https://github.com/object-Object/discord-github-utils)
 * [HexBug](https://github.com/object-Object/HexBug)
+* [modping](https://github.com/object-Object/modping)
 
 ### Libraries
 
@@ -29,6 +30,7 @@
 * [Caduceus](https://github.com/object-Object/Caduceus)
 * [HexDebug](https://github.com/object-Object/HexDebug)
 * [IoticBlocks](https://github.com/object-Object/IoticBlocks)
+* [Type Casting](https://github.com/object-Object/TypeCasting)
 
 ### RISC-V Emulators
 
